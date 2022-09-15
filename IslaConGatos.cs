@@ -8,10 +8,6 @@ namespace TP_I_Lab
 {
     internal class IslaConGatos: IslaSoloRatones
     {
-        //Probando
-        //Otro cmabio 
-        //fsidfsdsdfgsdfg
-        //dsfasdfazs
 
     }
 }

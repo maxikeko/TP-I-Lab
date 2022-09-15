@@ -8,8 +8,6 @@ namespace TP_I_Lab
 {
     abstract class Animal : IComparable
     {
-        //hola
-        //chau
         public int PasosParaMorir { get; private set; }
         public int TiempoSinComer { get; private set; }
         public int PasosVividos { get; private set; }
